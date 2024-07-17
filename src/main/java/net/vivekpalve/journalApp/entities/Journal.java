@@ -58,11 +58,6 @@ public class Journal {
 	public void setContent(String content) {
 		this.content = content;
 	}
-
-	public Journal() {
-		super();
-		// TODO Auto-generated constructor stub
-	}
 	
 	
 	
